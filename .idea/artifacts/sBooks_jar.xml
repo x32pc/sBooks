@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sBooks:jar">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="sBooks.jar">
+      <element id="module-output" name="sBooks" />
+    </root>
+  </artifact>
+</component>

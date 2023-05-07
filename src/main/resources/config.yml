@@ -1,0 +1,12 @@
+book_on_join:
+  enabled: true
+  text:                            #max number of lines in book is 14
+      - "&1First line"
+      - "&4Second line"
+      - "&5&kThird line"
+message_on_join:
+  enabled: true
+  message:
+    - "&b&oWelcome"
+    - "&4&m&lTo our server"
+    - "&5&nHave fun!"
